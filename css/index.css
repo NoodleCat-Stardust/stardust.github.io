@@ -1,4 +1,6 @@
 
+@import url("https://fonts.googleapis.com/css?family=Monoton");
+
 @font-face {
 	font-family: Archer;
 	src: url("../fonts/Archer/Archer.ttf");
@@ -7,6 +9,10 @@
 @font-face {
 	font-family: PressStart2P;
 	src: url("../fonts/Press_Start_2P/PressStart2P-Regular.ttf")
+}
+
+.monoton {
+	font-family: "Monoton", cursive;
 }
 
 body {
