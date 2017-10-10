@@ -12,9 +12,14 @@
 body {
 	background-color: black;
 	color: white;
-	font-family: PressStart2P;
+	font-family: Archer;
 }
 
 .gridbox-container {
 	display: grid;
+	grid-template-rows: 1fr 1fr 1fr;
+}
+
+.gridbox-box {
+	background: #4D5656;
 }
