@@ -1,0 +1,11 @@
+
+@font-face {
+	font-family: Archer;
+	src: url("stardust.github/fonts/Archer/Archer.ttf");
+}
+
+body {
+	background-color: black;
+	color: white;
+	font-family: Archer;
+}
