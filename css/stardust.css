@@ -14,6 +14,7 @@ html, body {
 
 #intro-section {
     background-color: #dabbbb;
+    background-image: url("../assets/stardust-header.png");
     filter: drop-shadow(10px 10px 10px rgba(0, 0, 0, 0.5));
     width: 100%;
     height: 100%;
