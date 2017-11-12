@@ -46,6 +46,16 @@ a:link {
     color: #FFFFFF;
 }
 
+#discord-button > a:link {
+    color: #738bd7;
+} #discord-button > a:visited {
+    color: #738bd7;
+} #discord-button > a:hover {
+    color: #738bd7;
+} #discord-button > a:active {
+    color: #738bd7;
+}
+
 #top-section {
     background-color: #60ff9d;
     background-image: url("../assets/nc-noback.png");
