@@ -75,14 +75,6 @@ a:link {
     height: 100%;
 }
 
-#main-section {
-    background-color: #db25ff;
-    color: #FFFFFF;
-    filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.4));
-    width: 100%;
-	min-height: 100%;
-}
-
 #footer {
     background-color: #FFFFFF;
     color: #000000;
