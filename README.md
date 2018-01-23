@@ -1,8 +1,5 @@
 # Stardust
 ======
 ## What This Is
-Stardust is a game about- <br>
-"*__YOU CAN'T SAY THAT!!!__*"<br>
-Wait, you mean I can't tell these people what Stardust is? <br>
-"*__NO!!!!__*"<br>
-... Well... You'll just have to wait... 
+Stardust is a RPG/Puzzel Solving Game. It also has some bullet hell mechs.
+It's currently in dev., so check up on it every once and a while. (On GameJolt)
